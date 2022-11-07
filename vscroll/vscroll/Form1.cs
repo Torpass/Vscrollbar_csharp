@@ -31,6 +31,8 @@ namespace vscroll
         private void hScrollBar1_Scroll(object sender, ScrollEventArgs e)
         {
             lbl.Width = bar4.Value;
+            int difference = e.NewValue - e.OldValue;
+            lbl.Location = new Point(lbl.Location.X - difference /2, lbl.Location.Y);
         }
 
 
