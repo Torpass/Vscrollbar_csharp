@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\Desktop\\Andres\\Programacion\\proyectosCsharp\\scrollPastor\\Vscrollbar_csharp\\vscroll\\vscroll\\vscroll.csproj": {}
+    "C:\\Users\\Pastor Jose\\OneDrive\\Documentos\\GitHub\\Vscrollbar_csharp\\vscroll\\vscroll\\vscroll.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\Desktop\\Andres\\Programacion\\proyectosCsharp\\scrollPastor\\Vscrollbar_csharp\\vscroll\\vscroll\\vscroll.csproj": {
+    "C:\\Users\\Pastor Jose\\OneDrive\\Documentos\\GitHub\\Vscrollbar_csharp\\vscroll\\vscroll\\vscroll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Desktop\\Andres\\Programacion\\proyectosCsharp\\scrollPastor\\Vscrollbar_csharp\\vscroll\\vscroll\\vscroll.csproj",
+        "projectUniqueName": "C:\\Users\\Pastor Jose\\OneDrive\\Documentos\\GitHub\\Vscrollbar_csharp\\vscroll\\vscroll\\vscroll.csproj",
         "projectName": "vscroll",
-        "projectPath": "C:\\Users\\andre\\Desktop\\Andres\\Programacion\\proyectosCsharp\\scrollPastor\\Vscrollbar_csharp\\vscroll\\vscroll\\vscroll.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Desktop\\Andres\\Programacion\\proyectosCsharp\\scrollPastor\\Vscrollbar_csharp\\vscroll\\vscroll\\obj\\",
+        "projectPath": "C:\\Users\\Pastor Jose\\OneDrive\\Documentos\\GitHub\\Vscrollbar_csharp\\vscroll\\vscroll\\vscroll.csproj",
+        "packagesPath": "C:\\Users\\Pastor Jose\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pastor Jose\\OneDrive\\Documentos\\GitHub\\Vscrollbar_csharp\\vscroll\\vscroll\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pastor Jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

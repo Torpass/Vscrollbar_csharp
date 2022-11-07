@@ -76,6 +76,7 @@
             this.bar1.Size = new System.Drawing.Size(23, 177);
             this.bar1.SmallChange = 5;
             this.bar1.TabIndex = 2;
+            this.bar1.Value = 255;
             this.bar1.Scroll += new System.Windows.Forms.ScrollEventHandler(this.bar1_Scroll);
             // 
             // rLbl
@@ -122,6 +123,7 @@
             this.bar2.Size = new System.Drawing.Size(23, 177);
             this.bar2.SmallChange = 5;
             this.bar2.TabIndex = 9;
+            this.bar2.Value = 255;
             this.bar2.Scroll += new System.Windows.Forms.ScrollEventHandler(this.bar2_Scroll);
             // 
             // bar3
@@ -135,6 +137,7 @@
             this.bar3.Size = new System.Drawing.Size(23, 177);
             this.bar3.SmallChange = 5;
             this.bar3.TabIndex = 10;
+            this.bar3.Value = 255;
             this.bar3.Scroll += new System.Windows.Forms.ScrollEventHandler(this.bar3_Scroll);
             // 
             // bar4
@@ -172,6 +175,7 @@
             this.MdiChildrenMinimizedAnchorBottom = false;
             this.Name = "Form1";
             this.Text = "RGB creator";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
